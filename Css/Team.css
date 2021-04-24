@@ -39,4 +39,11 @@ footer img{
     width: 50px;
     margin: 2px;
 }
+small{
+    display:flex;
+    justify-content: center;
+}
 
+footer div a{
+    margin: 4px;
+}
