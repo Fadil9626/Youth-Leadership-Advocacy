@@ -14,7 +14,9 @@ p, li{
     line-height: 30px;
 }
 
-
+footer{
+    margin-top:40px;
+}
 footer h3{
     display: flex;
     justify-content: center;
