@@ -1,0 +1,36 @@
+h1{
+    text-align: center;
+    color: royalblue;
+}
+main{
+    width: 90%;
+    margin: auto;
+}
+h2{
+    margin-top: 40px;
+}
+
+p, li{
+    line-height: 30px;
+}
+
+
+footer h3{
+    display: flex;
+    justify-content: center;
+
+}
+footer div{
+    display: flex;
+    justify-content: center;
+}
+footer img{
+    width: 50px;
+    margin: 2px;
+}
+small{
+    display:flex;
+    justify-content: center;
+    
+
+}
