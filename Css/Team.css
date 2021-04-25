@@ -23,27 +23,4 @@ section img{
 figure{
     flex-basis: 400px;
 }
-footer{
-    margin-top: 40px;
-}
-footer h3{
-    display: flex;
-    justify-content: center;
 
-}
-footer div{
-    display: flex;
-    justify-content: center;
-}
-footer img{
-    width: 50px;
-    margin: 2px;
-}
-small{
-    display:flex;
-    justify-content: center;
-}
-
-footer div a{
-    margin: 4px;
-}

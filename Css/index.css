@@ -43,6 +43,9 @@ body {
   display: none;
 }
 
+footer{
+  margin-top: 40px;
+}
 footer h3{
   display: flex;
   justify-content: center;
@@ -56,7 +59,14 @@ footer img{
   width: 50px;
   margin: 2px;
 }
+small{
+  display:flex;
+  justify-content: center;
+}
 
+footer div a{
+  margin: 4px;
+}
 
 @media screen and (max-width: 450px) {
   .topnav a:not(:first-child) {display: none;}
