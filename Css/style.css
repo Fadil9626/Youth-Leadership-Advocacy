@@ -18,6 +18,23 @@ img {vertical-align:center;}
   width: 100%;
   height: 600px;
 }
+/* News section */
+section{
+  width: 90%;
+  margin: auto;
+}
+h1{
+  text-align: center;
+  color: rgb(11, 69, 245);
+  margin:20px 0;
+}
+p{
+  line-height: 25px;
+}
+
+
+
+
 
 /* Caption text */
 .text {
@@ -89,6 +106,8 @@ body {
 .topnav {
   overflow: hidden;
   background-color: #fff;
+  position: sticky;
+  top: 0;
 }
 .logo{
   width: 100%;
@@ -155,6 +174,7 @@ footer div a{
   section{
     flex-direction: column;
   }
+  
   
   
 }

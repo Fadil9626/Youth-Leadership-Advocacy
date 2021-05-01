@@ -17,6 +17,16 @@ h2{
 }
 
 p{
-    line-height: 30px;
-    text-align: justify;
+    line-height: 25px;
+}
+.img-container{
+    display: flex;
+    justify-content: center;
+
+}
+.pic{
+    width: 250px;
+    height: 250px;
+    margin: 20px;
+    border-radius: 50%;
 }
