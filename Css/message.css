@@ -12,12 +12,13 @@ h1{
 }
 
 
+
 h2{
     margin-top: 40px;
 }
 
 p{
-    line-height: 25px;
+    line-height: 30px;
 }
 .img-container{
     display: flex;
