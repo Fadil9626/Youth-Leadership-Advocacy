@@ -13,6 +13,9 @@ section{
     align-items: center;
     gap: 10px;
 }
+p, li{
+    line-height: 30px;
+}
 
 figcaption{
     text-align: center;
