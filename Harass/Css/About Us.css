@@ -1,0 +1,45 @@
+h1{
+    margin-top: 30px;
+    text-align: center;
+    color: royalblue;
+}
+main{
+    width: 90%;
+    margin: auto;
+}
+h2{
+    margin-top: 40px;
+}
+
+p, li{
+    line-height: 30px;
+}
+
+footer{
+    margin-top:40px;
+}
+footer h3{
+    display: flex;
+    justify-content: center;
+
+}
+footer div{
+    display: flex;
+    justify-content: center;
+}
+footer img{
+    width: 20px;
+    margin: 2px;
+
+}
+small{
+    display:flex;
+    justify-content: center;
+    font-size: 10px;
+
+    
+
+}
+footer div a{
+    margin: 4px;
+}
